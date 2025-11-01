@@ -1,2 +1,28 @@
+# Arquivos de compilação
+*.aux
+*.log
+*.out
+*.toc
+*.nav
+*.snm
+*.vrb
 
-beamer_template_full/beamer_template_full.log
+# Arquivos de bibliografia
+*.bbl
+*.blg
+
+# Arquivos de índice
+*.idx
+*.ilg
+*.ind
+
+# Arquivos temporários de sistema
+.DS_Store
+Thumbs.db
+
+# Diretório de saída (se aplicável)
+build/
+output/
+
+# Arquivos de PDF
+*.pdf
